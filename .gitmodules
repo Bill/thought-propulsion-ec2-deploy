@@ -1,0 +1,3 @@
+[submodule "thought-propulsion"]
+	path = rails
+	url = git@github.com:Bill/thought-propulsion.git
